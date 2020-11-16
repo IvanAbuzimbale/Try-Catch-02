@@ -1,0 +1,10 @@
+C:\Users\Ivan\source\repos\TryCatch02\TryCatch02\bin\Debug\TryCatch02.exe.config
+C:\Users\Ivan\source\repos\TryCatch02\TryCatch02\bin\Debug\TryCatch02.exe
+C:\Users\Ivan\source\repos\TryCatch02\TryCatch02\bin\Debug\TryCatch02.pdb
+C:\Users\Ivan\source\repos\TryCatch02\TryCatch02\obj\Debug\TryCatch02.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\TryCatch02\TryCatch02\obj\Debug\TryCatch02.Form1.resources
+C:\Users\Ivan\source\repos\TryCatch02\TryCatch02\obj\Debug\TryCatch02.Properties.Resources.resources
+C:\Users\Ivan\source\repos\TryCatch02\TryCatch02\obj\Debug\TryCatch02.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\TryCatch02\TryCatch02\obj\Debug\TryCatch02.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\TryCatch02\TryCatch02\obj\Debug\TryCatch02.exe
+C:\Users\Ivan\source\repos\TryCatch02\TryCatch02\obj\Debug\TryCatch02.pdb
